@@ -6,4 +6,4 @@ Euskal Herrian adimen artifizialari eta teknologiari buruzko topaketak antolatze
 
 [Próximos encuentros · Hurrengo topaketak](https://elkano.dev/)
 
-![El barco de Elkano navegando con las velas desplegadas](./barco.jpg)
+![El barco navegando con las velas desplegadas y el nombre Elkano a su derecha](./barco-elkano.jpg)
